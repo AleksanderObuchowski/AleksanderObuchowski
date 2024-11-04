@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI in Natural Language Processing and Machine Aided Diagnosis
 -------------------------------------------------------------
 
-🏆 Forbes' 25 under 25 Young Innovators in Poland 🚀 Cofounder at TheLion.ai 🤖 Creator of Chattum - Open-source LLM workflows platform 🏥 Lead developer of Eskulap - Poland's first medical LLM 🛠️ Developing innovative NLP and Computer Vision solutions 📊 Leading large-scale AI projects and teams 🔗 Bridging research and practical AI implementation 🤝 Shaping AI policy and applications in Poland 📚 Contributing to open-source AI/ML projects
+🏆 Forbes' 25 under 25 Young Innovators in Poland 
+🚀 Cofounder at TheLion.ai 
+🤖 Creator of Chattum - Open-source LLM workflows platform 
+🏥 Lead developer of Eskulap - Poland's first medical LLM 🛠️ Developing innovative NLP and Computer Vision solutions 
+📊 Leading large-scale AI projects and teams 
+🔗 Bridging research and practical AI implementation 
+🤝 Shaping AI policy and applications in Poland 📚 Contributing to open-source AI/ML projects
 
 * 🌍  I'm based in Poland
 * 🚀  I'm currently working on [LLMs for healthcare](http://www.thelion.ai/post/eskulap-polish-medical-language-model)
